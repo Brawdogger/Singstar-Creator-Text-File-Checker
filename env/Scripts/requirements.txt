@@ -1,0 +1,10 @@
+altgraph==0.17.4
+chardet==5.2.0
+importlib-metadata==8.5.0
+packaging==24.2
+pefile==2023.2.7
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2024.10
+pywin32-ctypes==0.2.3
+sv-ttk==2.6.0
+zipp==3.21.0
