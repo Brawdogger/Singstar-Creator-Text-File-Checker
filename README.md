@@ -11,6 +11,7 @@ Currently, this tools detects the following errors in text files:
 For future development, the following issues still aren't being detected by the tool and need to be developed:
 
  - Adding checks for invalid characters within the song title and file name ( ' " / for example)
+ - Check for invalid empty lines
  - Check for if the song is in duet mode and if the labels are formatted correctly (Must use P1/P2 instead of DUETSINGERP1/2, ensure there aren't any spaces or other characters between P1/P2 labels)
  - Add check for if the last note of a song/duet section is a page break (Can cause singstar to crash)
  - Add check for if any notes are out of order and/or contain line breaks that occur before/during a note (Can occur commonly with songs produced with YASS)
